@@ -52,7 +52,7 @@ With GitHub Pages, you can host project blogs, documentation, resumes, portfolio
 <details id=1 open>
 <summary><h2>Step 1: Enable GitHub Pages</h2></summary>
 
-_Welcome to GitHub Pages and Jekyll :tada:!_
+## Welcome to GitHub Pages and Jekyll
 
 The first step is to enable GitHub Pages on this [repository](https://docs.github.com/en/get-started/quickstart/github-glossary#repository). When you enable GitHub Pages on a repository, GitHub takes the content that's on the main branch and publishes a website based on its contents.
 
@@ -76,7 +76,7 @@ The first step is to enable GitHub Pages on this [repository](https://docs.githu
 <details id=2>
 <summary><h2>Step 2: Configure your site</h2></summary>
 
-_You turned on GitHub Pages! :tada:_
+## You turned on GitHub Pages!
 
 We'll work in a branch, `my-pages`, that I created for you to get this site looking great. :sparkle:
 
